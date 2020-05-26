@@ -10,8 +10,8 @@ main()
 	obj.Convert();
 	cout<<endl<<endl;
 
-    M_S obj1;
-    obj1.GET();
-    obj1.M_SConvert();
+    	M_S obj1;
+    	obj1.GET();
+    	obj1.M_SConvert();
 	return 0;
 }

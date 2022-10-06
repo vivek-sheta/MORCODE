@@ -10,7 +10,7 @@ private:
     char *mor;
 public:
 	void GET();
-	void M_SConvert();
+	void M_SConvert(); 
 	void check(char []);
 };
 

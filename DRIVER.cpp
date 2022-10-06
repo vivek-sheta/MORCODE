@@ -6,7 +6,7 @@ using namespace std;
 main()
 {
 	S_M obj;
-	obj.GET();
+	obj.GET(); 
 	obj.Convert();
 	cout<<endl<<endl;
 

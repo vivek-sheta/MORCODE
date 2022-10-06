@@ -5,7 +5,7 @@ using namespace std;
 
 //pure abstract class
 class CODE
-{
+{ 
 protected:
 	char *ptr; //pointer which point the actual string
     char  A[3]=".-", B[5]="-...", C[5]="-.-.", D[4]="-..", E[2]=".", F[5]="..-.", G[4]="--.",H[5]="....", I[3]="..", J[5]=".--",

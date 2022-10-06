@@ -28,7 +28,7 @@ class S_M:public CODE //class which publicly inherited from class CODE
 void S_M::GET()
 {
     int SIZE;
-	cout<<"[NOTE : Characters & only white space not allowed ";
+	cout<<"[NOTE : Characters only & white space not allowed ";
 	cout<<endl<<"Enter String size :: "; cin>>SIZE;
 	cout<<"Enter String : ";
     temp=new char[SIZE];  //dynamic allocate memory
